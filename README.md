@@ -2,7 +2,7 @@
 
 This repository contains my Swift projects I have done for following Paul Hudson's [Hacking With Swift](https://www.hackingwithswift.com) tutorial.
 
-Entierly writed in Swift 3.
+Entierly written in Swift 3.
 
 ### Projects done (4/39)
 
